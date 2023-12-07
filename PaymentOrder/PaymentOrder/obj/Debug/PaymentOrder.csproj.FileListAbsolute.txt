@@ -1,0 +1,10 @@
+Z:\Program C#\PaymentOrder\PaymentOrder\bin\Debug\PaymentOrder.exe.config
+Z:\Program C#\PaymentOrder\PaymentOrder\bin\Debug\PaymentOrder.exe
+Z:\Program C#\PaymentOrder\PaymentOrder\bin\Debug\PaymentOrder.pdb
+Z:\Program C#\PaymentOrder\PaymentOrder\obj\Debug\PaymentOrder.csproj.AssemblyReference.cache
+Z:\Program C#\PaymentOrder\PaymentOrder\obj\Debug\PaymentOrder.Form1.resources
+Z:\Program C#\PaymentOrder\PaymentOrder\obj\Debug\PaymentOrder.Properties.Resources.resources
+Z:\Program C#\PaymentOrder\PaymentOrder\obj\Debug\PaymentOrder.csproj.GenerateResource.cache
+Z:\Program C#\PaymentOrder\PaymentOrder\obj\Debug\PaymentOrder.csproj.CoreCompileInputs.cache
+Z:\Program C#\PaymentOrder\PaymentOrder\obj\Debug\PaymentOrder.exe
+Z:\Program C#\PaymentOrder\PaymentOrder\obj\Debug\PaymentOrder.pdb
