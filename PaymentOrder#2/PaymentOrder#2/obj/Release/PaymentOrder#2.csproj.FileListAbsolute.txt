@@ -1,0 +1,14 @@
+Z:\Program C#\PaymentOrder#2\PaymentOrder#2\bin\Release\PaymentOrder#2.exe.config
+Z:\Program C#\PaymentOrder#2\PaymentOrder#2\bin\Release\PaymentOrder#2.exe.manifest
+Z:\Program C#\PaymentOrder#2\PaymentOrder#2\bin\Release\PaymentOrder#2.application
+Z:\Program C#\PaymentOrder#2\PaymentOrder#2\bin\Release\PaymentOrder#2.exe
+Z:\Program C#\PaymentOrder#2\PaymentOrder#2\bin\Release\PaymentOrder#2.pdb
+Z:\Program C#\PaymentOrder#2\PaymentOrder#2\obj\Release\PaymentOrder#2.csproj.AssemblyReference.cache
+Z:\Program C#\PaymentOrder#2\PaymentOrder#2\obj\Release\PaymentOrder_2.Form1.resources
+Z:\Program C#\PaymentOrder#2\PaymentOrder#2\obj\Release\PaymentOrder_2.Properties.Resources.resources
+Z:\Program C#\PaymentOrder#2\PaymentOrder#2\obj\Release\PaymentOrder#2.csproj.GenerateResource.cache
+Z:\Program C#\PaymentOrder#2\PaymentOrder#2\obj\Release\PaymentOrder#2.csproj.CoreCompileInputs.cache
+Z:\Program C#\PaymentOrder#2\PaymentOrder#2\obj\Release\PaymentOrder#2.exe.manifest
+Z:\Program C#\PaymentOrder#2\PaymentOrder#2\obj\Release\PaymentOrder#2.application
+Z:\Program C#\PaymentOrder#2\PaymentOrder#2\obj\Release\PaymentOrder#2.exe
+Z:\Program C#\PaymentOrder#2\PaymentOrder#2\obj\Release\PaymentOrder#2.pdb

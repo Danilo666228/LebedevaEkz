@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="PaymentOrder#2.exe" version="1.0.0.0" publicKeyToken="110d1f6cab9c533a" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="PaymentOrder#2" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="PaymentOrder#2.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Параметры манифеста UAC
+          Если нужно изменить уровень контроля учетных записей Windows, замените 
+          узел requestedExecutionLevel одним из следующих значений.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+        Если нужно использовать виртуализацию файлов и реестра для обратной
+             совместимости, удалите узел requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="PaymentOrder#2.exe" size="20448">
+      <assemblyIdentity name="PaymentOrder#2" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>3194SVH94M+wWURqWy7ZO2Jo4qbeN5uMTDVrZ2OsR6s=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="PaymentOrder#2.exe.config" size="187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>+CM46OnHRrXZXNLMx7+U3V3iubiYL//d8hGOR13lDhU=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-AFP88S8\danya" issuerKeyHash="ce595b0f7909320316e24bb4be4d0a42e38f0954" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>8LIw/2fBJc0TGmzfaUv+UQdezRL7UL/Yqw7aQBdJNfY=</DigestValue></Reference></SignedInfo><SignatureValue>maNLGj8i21NFBQw3dikZKkAZUcQCi9QUZ5YRhDxeuT5Vm5JT4nnZpcY3pqG9zQOSX3U0w2lcRv/FuMBCMGB0IRInMm61fTqfv9F805XhVyHQHS7+BPNtnEK2fl9PoWOkXyenBMrSAGSDolUKgoGF74TKxiyPmICFginjwO8F914=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>thiKSqXpp9KK+vaqfq5RNqOoYoddNX0oR/EgfbkdBTDDAB6/LZSKFOBSrejS8Vpi/nn06SICru77bIUSDwCG1HW26hzcD7HMv+UlQl3Af6y6tWrPqnHrU3OELobOU0a1bpoNe+5MxlKM6RlPMTNKRYUQv3ZjCaUlbjJX+5rHelE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="f635491740da0eabd8bf50fb12cd5e0751fe4b69df6c1a13cd25c167ff30b2f0" Description="" Url=""><as:assemblyIdentity name="PaymentOrder#2.exe" version="1.0.0.0" publicKeyToken="110d1f6cab9c533a" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-AFP88S8\danya</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>pkB0qX9KFEADwfzBtwsvT33YK1hnH1kxIKB97beHZYs=</DigestValue></Reference></SignedInfo><SignatureValue>JUtnmsihpgWm5DICXUBvazirb9vsShP3kNQkGGBrllycrh8tMKb1sVJkc/v7BJqGFJFEb1z38hG++yj38ybwNk7l3VSp6sBMLVDfBFwSptYBRcLN+oMH1aPz1M9/k9d4bEM86/NT+Zui8I9fbHkM6glTUeyl6gqQK8TIh3ji+O8=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>thiKSqXpp9KK+vaqfq5RNqOoYoddNX0oR/EgfbkdBTDDAB6/LZSKFOBSrejS8Vpi/nn06SICru77bIUSDwCG1HW26hzcD7HMv+UlQl3Af6y6tWrPqnHrU3OELobOU0a1bpoNe+5MxlKM6RlPMTNKRYUQv3ZjCaUlbjJX+5rHelE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQFIYEN75W3LpOYY2NQOU8FTANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAEEARgBQADgAOABTADgAXABkAGEAbgB5AGEwHhcNMjMxMjA4MTcwODQ3WhcNMjQxMjA3MjMwODQ3WjA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAEEARgBQADgAOABTADgAXABkAGEAbgB5AGEwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBALYYikql6afSivr2qn6uUTajqGKHXTV9KEfxIH25HQUwwwAevy2UihTgUq3o0vFaYv559OkiAq7u+2yFEg8AhtR1tuoc3A+xzL/lJUJdwH+surVqz6px61NzhC6GzlNGtW6aDXvuTMZSjOkZTzEzSkWFEL92YwmlJW4yV/uax3pRAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAn2trHM0AFsAbA5svMWZhn9HkbX4kd57DKb74WkoeC8iNCfnik9A37LwJJugmSlm1Z6QI81FitAWeacd3ADq6slFrMEBPMVOIod07af9UsHLyY7vSAePuyZLta4fW8xs0u/5NNUvpR581wIvnJtV2wJDG+oAJ8rfNZ4CaVS6VpNk=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
